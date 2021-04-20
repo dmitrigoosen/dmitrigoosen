@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmitrigoosen
-- 👀 I’m interested in ... wtf are these Icons? We are having the emoji now in Markdown?
+- 👀 I’m interested in ... updating FullName independent of username? emoji font in Markdown. Diagrams? :) then MD can be just like DocuWiki, and we can stay within TEXT world. Also wonder where will it bring down the word-wrap? with indent or not?
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... XAML, meta-programming.
 - 📫 How to reach me ... i ll post email here if decide to keep this Intro.
