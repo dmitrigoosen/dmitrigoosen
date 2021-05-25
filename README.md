@@ -7,6 +7,8 @@
 - ⚒ strangely though same font as above (Segoe UI Emoji) but the crossed hammers are not displayed as Icons.
 - ⚖ - and neither are the scales... the web-dev world... Done in seconds, but works only "kind of" )
 
+- ⚽ - this was added from checkout via https-clone
+
 <!---
 dmitrigoosen/dmitrigoosen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
